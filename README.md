@@ -1,3 +1,3 @@
 # google-cloud-function
 
-Time to test Google Cloud Function!
+This file is created as part of learning Cloud Functions. Learned usage of webhooks to create triggers
